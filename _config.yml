@@ -2,6 +2,7 @@ name: Gravestone Imaging
 favicon: null
 layout_spectrum: 0.24725
 typography_spectrum: 0.6638244
+title: Gravestone Imaging
 cta:
   domain: null
   bucket: null
