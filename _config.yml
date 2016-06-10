@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Gravestone Imaging
 favicon: null
+name: Gravestone Imaging
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6638244
-layout_spectrum: 0.7404255
+layout_spectrum: 1
