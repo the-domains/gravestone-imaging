@@ -1,21 +1,35 @@
 title: Gravestone Imaging
+cta:
+  domain: null
+  bucket: null
+  version: null
+layout_spectrum: 0.1798246
+favicon: null
+name: Gravestone Imaging
 purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
   brandStrength: 0
-  rhythmicContrast: 0
+  saturation: 1
   brandColors:
     - '#a7c2df'
     - '#628145'
@@ -23,19 +37,5 @@ color:
     - '#568bc1'
     - '#031000'
   lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Gravestone Imaging
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  rhythmicContrast: 0
 typography_spectrum: 0.6638244
-layout_spectrum: 0
