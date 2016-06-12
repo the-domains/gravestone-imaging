@@ -1,16 +1,16 @@
 title: Gravestone Imaging
 cta:
-  domain: null
-  version: null
   bucket: null
-layout_spectrum: 0.5388471
+  version: null
+  domain: null
+layout_spectrum: 0.7825814
 favicon: null
 name: Gravestone Imaging
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
