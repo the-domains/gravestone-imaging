@@ -1,14 +1,11 @@
 ---
-datePublished: '2016-06-16T21:06:01.480Z'
+datePublished: '2016-06-16T21:23:26.099Z'
 sourcePath: _posts/2016-06-15-cemeteryregistryus.md
 isBasedOnUrl: 'https://youtu.be/OrH64oNByks'
 keywords: []
 related: []
-author:
-  - name: CemeteryRegistry.US
-    url: 'https://www.youtube.com/channel/UCzQKMyDH2_knhtKfKBxJWoA'
-    avatar: {}
-dateModified: '2016-06-16T16:12:33.039Z'
+author: []
+dateModified: '2016-06-16T21:23:25.819Z'
 title: CemeteryRegistry.US
 app_links: []
 publisher:
@@ -22,7 +19,7 @@ description: >-
   should not become lost just because the knowledge of their location is
   forgotten. Video overviews, as well as photos, assist in identifying,
   locating, and remembering our ancestors.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
