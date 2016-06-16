@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-16T21:38:13.140Z'
+datePublished: '2016-06-16T21:38:49.528Z'
 sourcePath: _posts/2016-06-15-cemeteryregistryus.md
 isBasedOnUrl: 'https://youtu.be/OrH64oNByks'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T21:36:34.288Z'
-title: CemeteryRegistry.US
+dateModified: '2016-06-16T21:38:46.656Z'
+title: ''
 app_links: []
 publisher:
   url: 'https://www.youtube.com/'
