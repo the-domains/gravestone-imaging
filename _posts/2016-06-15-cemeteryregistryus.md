@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-16T21:23:26.099Z'
+datePublished: '2016-06-16T21:38:13.140Z'
 sourcePath: _posts/2016-06-15-cemeteryregistryus.md
 isBasedOnUrl: 'https://youtu.be/OrH64oNByks'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T21:23:25.819Z'
+dateModified: '2016-06-16T21:36:34.288Z'
 title: CemeteryRegistry.US
 app_links: []
 publisher:
@@ -13,12 +13,7 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-description: >-
-  Cemetery Video Documentaries We visually document cemeteries whenever possible
-  in order to provide reference and preserve history. We believe that cemeteries
-  should not become lost just because the knowledge of their location is
-  forgotten. Video overviews, as well as photos, assist in identifying,
-  locating, and remembering our ancestors.
+description: ''
 starred: true
 inFeed: true
 hasPage: false
