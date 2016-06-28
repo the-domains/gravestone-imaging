@@ -1,8 +1,31 @@
-name: Gravestone Imaging
-favicon: null
-layout_spectrum: 0.47214466286823153
 typography_spectrum: 0.832187172723934
-title: ''
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.47214466286823153
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Gravestone Imaging
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40322356-97c0-417b-9744-2076b83e24f0.ico
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+title: ''
 purpose: []
