@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-29T04:21:39.556Z'
+datePublished: '2016-06-29T04:21:42.238Z'
 sourcePath: _posts/2016-06-29-headstone.md
 author: []
-dateModified: '2016-06-29T04:21:39.267Z'
+dateModified: '2016-06-29T04:21:41.654Z'
 title: ''
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
