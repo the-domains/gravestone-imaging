@@ -1,42 +1,42 @@
-typography_spectrum: 0.9382060065399855
+title: ''
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40322356-97c0-417b-9744-2076b83e24f0.ico
+name: Gravestone Imaging
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
 color:
+  brandStrength: 0.3627996190916747
+  saturation: 0.8657450040336698
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.3627996190916747
-  lightness: 0.27841902687214315
-  saturation: 0.8657450040336698
-  rhythmicContrast: 0.33119939593598247
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.2933902945369482
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Gravestone Imaging
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40322356-97c0-417b-9744-2076b83e24f0.ico
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: ''
-purpose: []
+  lightness: 0.2784190268721431
+  rhythmicContrast: 0.3311993959359825
+typography_spectrum: 0.9382060065399855
