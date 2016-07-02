@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 1
+layout_spectrum: 0.8427318
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/40322356-97c0-417b-9744-2076b83e24f0.ico
 name: Gravestone Imaging
