@@ -1,24 +1,24 @@
-name: Gravestone Imaging
+name: Cemetery Citings
 analytics: {}
 purpose: []
 github: true
+author: {}
 cta:
   version: null
   bucket: null
   domain: null
-author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.4987469
 color:
