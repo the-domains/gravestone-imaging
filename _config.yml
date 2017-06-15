@@ -1,8 +1,15 @@
 name: Cemetery Citings
 analytics: {}
-purpose: []
+purpose:
+  - type: external
+    url: 'https://cemeteryregistry.us'
+    label: Free Sample List from Cemetery Citings
 github: true
-author: {}
+description: Annual Publication of Verified Cemeteries
+author:
+  name: Doyle P. Glaze II
+  url: 'https://cemeteryregistry.us'
+  email: cemeteryregistryus@gmail.com
 cta:
   version: null
   bucket: null
@@ -13,13 +20,61 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2d81944-7a26-4d49-b041-2a7c936b192b.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2d81944-7a26-4d49-b041-2a7c936b192b.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f3c5bc-20da-4cc1-adaf-95f57a2a7ab7.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f3c5bc-20da-4cc1-adaf-95f57a2a7ab7.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 layout_spectrum: 0.4987469
 color:
   lightness: 0.2784190268721431
@@ -38,3 +93,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.7357769871596247
 opengraph: {}
+title: Cemetery Citings
