@@ -3,7 +3,7 @@ analytics: {}
 purpose:
   - type: external
     url: 'https://cemeteryregistry.us'
-    label: Free Sample List from Cemetery Citings
+    label: Free Sample Edition of Cemetery Citings
 github: true
 description: Annual Publication of Verified Cemeteries
 author:
